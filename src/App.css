@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  background-color: #f7e4d4;
+  min-height: 100vh;
+}
+
+#container{
+  padding-top: 2%;
+}
